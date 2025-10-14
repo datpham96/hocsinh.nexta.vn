@@ -40454,7 +40454,7 @@ a7j:function a7j(){var _=this
 _.d=$
 _.e=!1
 _.c=_.a=null},
-bTG(a){switch(a.a){case 0:return"http://dev-api.nexta.vn"
+bTG(a){switch(a.a){case 0:return"https://dev-api.nexta.vn"
 case 1:return"https://product.api.nexta.vn"}},
 cly(a){switch(a.a){case 0:return"https://dev-api.nexta.vn"
 case 1:return"https://api2.nexta.vn"}},
@@ -40463,7 +40463,7 @@ case 1:return"product.api.nexta.vn"}},
 clA(a){var s="product.api.nexta.vn"
 switch(a.a){case 0:return s
 case 1:return s}},
-clB(a){switch(a.a){case 0:return 7350
+clB(a){switch(a.a){case 0:return 443
 case 1:return 443}},
 bTH(a){if(a===B.fd)return A.c8u(!1)
 else return A.c8u(!0)},
