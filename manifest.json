@@ -1,6 +1,6 @@
 {
-    "name": "Nexta",
-    "short_name": "Nexta Student",
+    "name": "flutter_base",
+    "short_name": "flutter_base",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
