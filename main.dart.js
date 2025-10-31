@@ -40719,7 +40719,7 @@ s=4
 return A.p(l.rM(),$async$BJ)
 case 4:q=6
 s=9
-return A.p($.cf3().OS(0,".env.prod"),$async$BJ)
+return A.p($.cf3().OS(0,"env.prod"),$async$BJ)
 case 9:q=1
 s=8
 break
